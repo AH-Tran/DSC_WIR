@@ -12,13 +12,13 @@ It contains the project code for the project **Applying Science Models for Re-Ra
 
 
 
-#### Structure of this repository
+#### Structure of this Repository
 * `data\`: Metadata used for the project
 * `doc\`: Documentation and presentation of the project
 * `scripts\`: Jupyter notebooks used for the project
 
-#### Notebook description
-| filename                    | description                                                                                                                                                         |
+#### Notebook Description
+| Filename                    | Description                                                                                                                                                         |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `Experiments.ipynb` | Creating, experimenting & evaluating retrieval perfomance with the graphs |
 | `Scrape_metadata.ipynb` | Scraping relevant metadata using SemanticScholarAPI|
