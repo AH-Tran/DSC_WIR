@@ -1,6 +1,6 @@
 # [WIR] Applying Science Models for Re-Ranking in IR
 This is the repository for the course 'Web Information Retrieval' for the study 'Digital Sciences at the University of Applied Sciences Cologne.   
-It contains the project code for the project 'Applying Science Models for Re-Ranking in IR'  
+It contains the project code for the project ```Applying Science Models for Re-Ranking in IR```
 
 #### Structure of this repository
 * `data\`: Metadata used for the project
