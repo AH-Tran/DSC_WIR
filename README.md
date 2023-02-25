@@ -7,7 +7,8 @@ It contains the project code for the project **Applying Science Models for Re-Ra
 * Four Graph Implementations: Co-citation Graph, Citation Graph, Lotka-Inspired Graph, Journal Graph
 * Metrics: Degree Centrality, Closeness, Betweenness, Distance to most popular node
 * Comparing BM25 Baseline vs. Re-ranking with Boosting Factor
-* Dataset: TREC-COVID / Cord19 dataset
+* Dataset: [TREC-COVID / Cord19 dataset](https://ir-datasets.com/cord19.html)  
+* Metadata Enrichment: [SemanticScholar API](https://www.semanticscholar.org/product/api)
 
 
 
